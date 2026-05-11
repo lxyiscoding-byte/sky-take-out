@@ -124,6 +124,14 @@
                 <version>${mybatisplus}</version>
                 <scope>compile</scope>
             </dependency>
+
+            <!-- Source: https://mvnrepository.com/artifact/com.baomidou/mybatis-plus-jsqlparser -->
+            <dependency>
+                <groupId>com.baomidou</groupId>
+                <artifactId>mybatis-plus-jsqlparser</artifactId>
+                <version>${mybatisplus}</version>
+                <scope>compile</scope>
+            </dependency>
             <!--微信支付-->
             <dependency>
                 <groupId>com.github.wechatpay-apiv3</groupId>

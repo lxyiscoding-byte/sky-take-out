@@ -24,7 +24,7 @@ public class JwtUtil {
 
 
 
-    private static final String JWT_SECRET = "lxyiscoding";
+    private static final String JWT_SECRET = "lxyiscoding@2263243663isthesecret";
     private static final long JWT_EXPIRATION = 7*24*60*60*1000L;
 
 
